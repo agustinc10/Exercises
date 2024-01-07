@@ -1,7 +1,7 @@
-# Python Practice Excercises
+# Practice Excercises
 ## A repo with the only purpose of start using/understanding GitHub
 
-It will contain simple Python, C and C++ but those exeercises won't be the goal themselves. 
+It will contain simple Python, C and C++ exercises but those exercises won't be the goal themselves. 
 <!--
 ### Diagram
 None
